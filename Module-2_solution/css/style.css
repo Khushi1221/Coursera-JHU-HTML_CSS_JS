@@ -66,6 +66,11 @@ h3
   color: white;   
 }
 
+a
+{
+  font-size: 18px; 
+}
+
 /********** Large devices only - Desktop view **********/
 @media (min-width: 992px) 
 {  

@@ -66,10 +66,16 @@ h3
   color: white;   
 }
 
-a
+a:link, a:visited
 {
-  font-size: 16px; 
+  text-decoration: none;
+  color: blue;
   margin: 20px;
+}
+
+a:hover
+{
+  color: red;
 }
 
 /********** Large devices only - Desktop view **********/
